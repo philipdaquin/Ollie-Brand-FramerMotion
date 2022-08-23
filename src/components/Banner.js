@@ -43,7 +43,7 @@ const BannerRowBottom = ({ title }) => {
   return (
     <div className={"banner-row center"}>
       <div className="scroll">
-        <span>scroll</span>
+        <span>scroll</span>a
         <span>down</span>
       </div>
       <AnimatedLetters title={title} />
